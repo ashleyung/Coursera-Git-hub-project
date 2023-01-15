@@ -1,0 +1,11 @@
+#name-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#name-container h1 {
+    color: #333;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+}
